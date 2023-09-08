@@ -68,7 +68,31 @@ Before starting, make sure you have the following:
 
 - In your forked repository, follow the step-by-step guidelines provided in the Saleor Platform repository to set up Saleor with sample data.
 
-[Insert screenshot here]
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/e9c248d3-17e3-4daa-981f-96b021e06dcb)
+
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/b765e0de-d1b3-4ea0-9576-a8e8fff4a9f0)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/2cdf25de-0c9a-41b8-8ae0-f0c140f65457)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/6e5880fe-e266-42e1-9fa0-a1a5b603f47a)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/81c7e572-14df-4059-bbf9-beab517baf57)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/25788662-3096-4b5e-8ddc-16cca06916cc)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/4a10c1a7-5719-41f9-bfd6-310bf0baa504)
+
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/8e042ed4-2a36-4778-bad3-67a8be6992e1)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/91f9b6d9-73c5-459a-b9e9-de9fa826bbb8)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/6a7d9e86-804c-4661-9e00-8510420cd30a)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/29475c4c-abca-4bd2-9f20-627050a4070d)
+
+
 
 ## Step 4: Tailor the Compose File
 

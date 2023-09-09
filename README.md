@@ -1,6 +1,6 @@
 # Microservices Architecture and Deployment for Saleor
 
-This README provides a step-by-step guide on how to set up a Microservices Architecture and Deployment for Saleor. Each step includes instructions and screenshots to help you perform the task effectively.
+This README provides a step-by-step guide on how to set up a Microservices Architecture and Deployment for Saleor and reference screenshots. 
 
 ## Table of Contents
 
@@ -100,32 +100,35 @@ Before starting, make sure you have the following:
 
 - Modify the Compose file to configure the React Storefront to operate on port 3009.
 
-[Insert screenshot here]
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/5133648f-090a-46c9-b392-99c283068557)
+
 
 ### b. Assign Port to Saleor Dashboard
 
 - Assign port 9003 for the Saleor Dashboard in the Compose file.
 
-[Insert screenshot here]
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/18934f42-dcfa-43a5-b848-2b53be4805ac)
+
 
 ### c. Initiate the Stack
 
 - Follow the instructions in the repository to initiate the Saleor stack.
 
-[Insert screenshot here]
 
 ### d. Verify Successful Launch
 
 - Ensure that Saleor React Storefront and Saleor Dashboard are accessible.
 
-[Insert screenshot here]
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/1712b293-0063-42bf-86d1-3b64ec142148)
+
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/ff8945bb-c6fe-4277-aa37-b3f32e6a870d)
 
 ## Step 5: Commit and Push Changes
 
 - Commit your modifications to the forked repository with the tag "isec6000-assignment1."
 
-[Insert screenshot here]
+![image](https://github.com/amna74/isec6000-assignment1-task2/assets/64349999/89cd8cb2-e53f-4bf5-966d-47f0ad4eac4d)
 
----
 
-Feel free to add more details and specific screenshots as you perform each step of the task. This README file will serve as a comprehensive guide for anyone following the same procedure.
+
+
